@@ -1,0 +1,29 @@
+{
+  "name": "meanauthapp",
+  "version": "1.0.0",
+  "description": "A small mean authentication app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santhosh5699/meanauthapp.git"
+  },
+  "dependencies": {
+    "express": "*",
+    "cors": "*",
+    "body-parser": "*",
+    "passport": "*",
+    "passport-jwt": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "bcryptjs": "*"
+  },
+  "author": "santhosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santhosh5699/meanauthapp/issues"
+  },
+  "homepage": "https://github.com/santhosh5699/meanauthapp#readme"
+}
